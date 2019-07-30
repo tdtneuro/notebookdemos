@@ -2,4 +2,4 @@ numpy
 matplotlib
 sklearn
 scipy
-tdt>=0.1.10
+tdt>=0.1.11
